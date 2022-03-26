@@ -2,8 +2,8 @@
 	"Id": "30046d8e-3e0e-4280-bf34-d52ec64d305d",
 	"Name": "Blue shoes",
 	"Price": {
-		"IsoCurrency": USD",
-		"Amount": "9.50"
+		"IsoCurrency": "USD",
+		"Amount": 9.50
 	},
 	"Stock": 234
 },{
@@ -11,7 +11,7 @@
 	"Name": "Orange shoes",
 	"Price": {
 		"IsoCurrency": "EUR",
-		"Amount": "12.50"
+		"Amount": 12.50
 	},
 	"Stock": 234
 },{
@@ -19,7 +19,7 @@
 	"Name": "purple shoes",
 	"Price": {
 		"IsoCurrency": "EUR",
-		"Amount": "12.50"
+		"Amount": 12.50
 	},
 	"Stock": 33
 }]
